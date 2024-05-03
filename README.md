@@ -16,7 +16,7 @@ Download this repository, open the .ino file with Arduino IDE and upload it to y
 ## Usage
 
 1. Connect your RF433 hardware to the M5AtomS3LITE device and power it on.
-2. Upon receiving RF433 signals, the code decodes the signals and outputs timing information both to the serial interface and the M5AtomS3LITE LCD display.
+2. Upon receiving RF433 signals, the code decodes the signals and outputs timing information to the serial interface.
 
 ## Credits
 
